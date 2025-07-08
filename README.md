@@ -30,6 +30,12 @@ This project showcases my ability to:
 - **MVVM Clean Architecture**
 
 ---
+## 📂 Folder Structure
+
+```plain text
+
+
+```
 
 ## ⚠️ Disclaimer
 This app is developed **for educational purposes only**  
@@ -42,8 +48,22 @@ It demonstrates my ability to:
 
 ## 📸 Screenshots
 
-> You can add your app screenshots here:
+### Home Screen
 
-```markdown
-![Screenshot 1](assets/screenshots/notes1.jpg)
-![Screenshot 2](assets/screenshots/notes2.jpg)
+<img src="assets/E1.jpg" width="250">
+
+### Edit Transaction Screen
+
+<img src="assets/E2.jpg" width="250">
+
+### Edit Transaction Screen 2
+
+<img src="assets/E3.jpg" width="250">
+
+### Add Transaction Screen 
+
+<img src="assets/E4.jpg" width="250">
+
+### User Info Screen
+
+<img src="assets/E5.jpg" width="250">
