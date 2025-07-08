@@ -20,7 +20,7 @@ import com.example.expenseease.ui.theme.MainViewModel
 import com.example.expenseease.ui.theme.Navigation
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
-class MainActivity : ComponentActivity() {
+class   MainActivity : ComponentActivity() {
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
